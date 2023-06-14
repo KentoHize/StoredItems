@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "ID": 1,
+    "Item": "Rice Dumpling",
+    "Quantity": 1,
+    "PartNumber": 0
+  },
+  {
+    "ID": 2,
+    "Item": "Rice",
+    "Quantity": 2,
+    "PartNumber": 0
+  }
+]

@@ -1,7 +1,14 @@
 [
   {
+    "ID": 0,
     "Name": "Rice Dumpling",
     "CName": "粽子",
     "BaseItem": "Rice Dumpling"
+  },
+  {
+    "ID": 1,
+    "Name": "Rice",
+    "CName": "壽司米",
+    "BaseItem": "Rice"
   }
 ]
