@@ -10,5 +10,11 @@
     "Name": "Rice",
     "CName": "壽司米",
     "BaseItem": "Rice"
+  },
+  {
+    "ID": 2,
+    "Name": "Gas",
+    "CName": "桶裝瓦斯",
+    "BaseItem": "Gas"
   }
 ]

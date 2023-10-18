@@ -2,13 +2,22 @@
   {
     "ID": 1,
     "Item": "Rice Dumpling",
-    "Quantity": 1,
-    "PartNumber": 0
+    "Quantity": 0,
+    "PartNumber": 0,
+    "UpdateDate": "0001/01/01"
   },
   {
     "ID": 2,
     "Item": "Rice",
-    "Quantity": 2,
-    "PartNumber": 0
+    "Quantity": 3,
+    "PartNumber": -2,
+    "UpdateDate": "0001/01/01"
+  },
+  {
+    "ID": 3,
+    "Item": "Gas",
+    "Quantity": 1,
+    "PartNumber": 1,
+    "UpdateDate": "2023/10/18"
   }
 ]

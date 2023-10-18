@@ -2,5 +2,9 @@
   {
     "Name": "Food",
     "CName": "食物"
+  },
+  {
+    "Name": "Fuel",
+    "CName": "燃料"
   }
 ]
